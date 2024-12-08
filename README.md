@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @florentdraye
-- 👀 I’m interested in machine learning and neuroscience
-- 🌱 I’m currently doing a master in neuroscience at ETHZ/UZH
-- 📫 How to reach me : draye.florent@gmail.com / +32 472 05 06 57
+- 👀 I’m interested in LLM interpretability and AI safety
+- 🌱 I’m currently doing a PhD at MPI-IS with Prof. Bernhard Schölkopf
+- 📫 How to reach me : draye.florent@gmail.com 
