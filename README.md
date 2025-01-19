@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @florentdraye
-- 👀 I’m interested in LLM interpretability and AI safety
+- 👀 I’m interested in LLM interpretability and World Models
 - 🌱 I’m currently doing a PhD at MPI-IS with Prof. Bernhard Schölkopf
 - 📫 How to reach me : draye.florent@gmail.com 
